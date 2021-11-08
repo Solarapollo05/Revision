@@ -1,0 +1,11 @@
+Missed Topics:
+
+Topic 1 - ~Errors 14~, ~Linear Search 15~, ~Binary Search 16~, ~Bubble Sort 17~, ~Merge Sort 18~, ~Efficency of Algorithms~, Trace Tables
+Topic 2 - Bitmap Images, Analoug Sound, Compression
+Topic 3 - Embeded Systems, Robust Software, Programming Languages, Interpreters and Compilers
+Topic 4 - None
+Topic 5 - None
+Topic 6 - Read Files, Write Files
+
+
+Todo - Add computer science notes to GitHub repo (My Work folder)
