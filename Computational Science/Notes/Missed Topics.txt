@@ -8,4 +8,8 @@ Topic 5 - None
 Topic 6 - Read Files, Write Files
 
 
-Todo - Add computer science notes to GitHub repo (My Work folder)
+Missed Lessons: 15
+Completed at home: 6
+Completed in School: 1
+
+Total Remaining: 8
