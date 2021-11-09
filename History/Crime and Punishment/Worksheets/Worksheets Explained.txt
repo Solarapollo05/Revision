@@ -1,0 +1,6 @@
+The idea of a revision clock is to spend 1 hour per worksheet, with each section taking 5 mins. 
+These worksheets cover:
+    * Medieval England
+    * Early Modern England
+    * Industrial England
+    * 20th Century 
