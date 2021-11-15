@@ -25,13 +25,14 @@ A list of topics that have not been covered in Computer Science, and their page 
 
 ~~Compression - Page 33~~
 ## Topic 3 - Computers
-Embedded Systems - Page 39
+~~Embedded Systems - Page 39~~
 
-Robust Software - Page 43
+~~Robust Software - Page 43~~
 
-Programming Languages - Page 44 
+~~Programming Languages - Page 44~~
 
-Interpreters and Compilers - Page 45
+~~Interpreters and Compilers - Page 45~~
+
 ## Topic 4 - Networks
 None
 
