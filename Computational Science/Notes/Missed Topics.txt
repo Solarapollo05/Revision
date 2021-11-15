@@ -1,7 +1,7 @@
 Missed Topics:
 
-Topic 1 - ~Errors 14~, ~Linear Search 15~, ~Binary Search 16~, ~Bubble Sort 17~, ~Merge Sort 18~, ~Efficency of Algorithms~, Trace Tables
-Topic 2 - ~Bitmap Images 29~, ~Analoug Sound 30~, Compression
+Topic 1 - ~Errors 14~, ~Linear Search 15~, ~Binary Search 16~, ~Bubble Sort 17~, ~Merge Sort 18~, ~Efficency of Algorithms~, ~Trace Tables 12~
+Topic 2 - ~Bitmap Images 29~, ~Analoug Sound 30~, ~Compression 33~
 Topic 3 - Embeded Systems, Robust Software, Programming Languages, Interpreters and Compilers
 Topic 4 - None
 Topic 5 - None
