@@ -47,7 +47,7 @@ Missed Pages: 15
 
 Competed in School: 3
 
-Completed at Home: 12
+Completed at Home: 10
 
 
 Remaining: 2
