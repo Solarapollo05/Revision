@@ -20,9 +20,16 @@ Paper 3 - ```Unknown```
 
 ## Science
 
-Physics - ```Unknown```
-Chemistry - ```Unknown```
-Biology - ```Unknown```
+Physics 1 - ```Unknown```
+Physics 2 - ```Unknown```
+
+
+Chemistry 1 - ```Unknown```
+Chemistry 2 - ```Unknown```
+
+
+Biology 1 - ```Unknown```
+Biology 2 - ```Unknown```
 
 ## History
 
