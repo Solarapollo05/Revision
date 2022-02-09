@@ -51,8 +51,24 @@
 
 ## Networks
 
+* Understand why computers are connected in a network.
+* Understand the different types of networks (LAN, WAN).
+* Understand how the internet is structured (IP addresses).
+* Understand how the characteristics and speed of wirless and wired networks impact performance (speed, latency).
+* Understand that network speeds are measured in bits per second (kilobit, megabit, gigabit).
+* Understand the need for email protocols and their roles (POP3, IMAP, SMTP).
+* Understand how the 4-layer TCP/IP model (application, transport, internet, link) handles data transmisison over a network. 
+* Understand characteristics of network topologies (star, bus, mesh).
+
 ## Network Security
+
+* Understand methods of protecting networks (firewalls)
 
 ## Ethical and Legal
 
+* Understand the legal issues with the collection and use of personal data (consent, data protection).
+* Understand the ethical and legal issues associated with the use of artifical inteligence, machine learning, and robotics (algorithmic bias).
+
 ## Cybersecurity
+
+* Understand the methods of protecting digital systems and data (backup and recovery procedures).
