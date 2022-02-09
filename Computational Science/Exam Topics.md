@@ -33,9 +33,21 @@
 
 ## Hardware
 
+* Understand the Von Neumann stored program concept.
+* Understand the role of secondary storage and the ways that it is stored on devices (magnetic, optical, solid state)
+* Understand the concept of an embedded system, and what they are used for. 
+
+
 ## Software
 
+* Understand the purpose and functionality of an operating system (user managment)
+* Understand the purpose and function of utility software (data compression)
+* Understand the importance of developing robust software. 
+
 ## Programming Languages
+
+* Understand the characteristics and purposes of low-level and high-level programming languages.
+* Understand the differences between interpreters and compilers in the way they translate high-level code into machine code. 
 
 ## Networks
 
