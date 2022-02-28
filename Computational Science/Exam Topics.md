@@ -6,7 +6,7 @@
 
 ### Algorithms
 
-* Following and writing alogrithms (flowcharts) taht use sequence, selection, input, processing, and output to solve problems. 
+* Following and writing alogrithms (flowcharts) that use sequence, selection, input, processing, and output to solve problems. 
 * Following algorithms that use variables, constants, and arrays.
 * Using a trace table to determine the value of a variable at a given point in an algorithm.
 * Understanding how standard algorithms (linear search) work.  
