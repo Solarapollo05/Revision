@@ -1,42 +1,11 @@
-Monday:
+Monday: English (9-12)
+Tuesday: Science NGL (9-12) and Geography (12:30-2:30)
+Wednesday: -- None --
+Thursday: Science JUG (10-1)
+Friday: -- None --
 
-	English (9-10)/(9-12)
-
-Tuesday:
-
-	Science NGL (9-12)
-	Geography CDH (12:20-2:30)
-
-Wednesday:
-
-	NONE
-
-Thursday:
-
-	Science JUG (10-1)	
-
-Friday:
-
-	NONE
-
-Monday:
-
-	NONE
-
-Tuesday:
-
-	Computer Science FMG/OWI (9-12)
-	OR
-	Geography CDH (9-12)
-
-Wednesday:
-
-	NONE
-
-Thursday:
-
-	English Tutoring (10-1)
-
-Friday:
-
-	NONE
+Monday: -- None --
+Tuesday: Computer Science (9-12)
+Wednesday: -- None --
+Thursday: MyTutor (10-1)
+Friday: -- None --
