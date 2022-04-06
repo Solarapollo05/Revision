@@ -69,5 +69,32 @@
 <br>
 
 ## Paper 2 - Higher
+<br>
+
+### Topics to focus
+
+* Hormonal Control in humans
+* Organisation of an ecosystem
+* Biodiversity and the effects of human interaction on an ecosystem.
+
+<br>
+
+### Required Practicals
+
+* Required Practical 7 - measure the popluation size of a common species in a habitat. Use sampling techniques to investigate the effect of a factor on the distribution of this species
+
+<br>
+
+### Topics not assessed
+
+* The human nervous system
+* Contraception
+* Sexual and Asexual reproduction
+* DNA and the genome
+* Genetic inheretance
+* Inherited disorders
+* Sex determination
+* Variation and evolution
+* The development of understanding
 
 ## Paper 2 - Foundation
