@@ -1,0 +1,10 @@
+Revise:
+
+Embedded Systems
+High + Low level languages (interpreters and compilers)
+Algorithmic Bias
+Data Protection - Issues and Impacts
+Differences between high and low level code
+POP3 vs IMAP
+Wired vs Wireless
+Network Security
