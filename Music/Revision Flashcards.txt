@@ -67,3 +67,36 @@ Africa - Toto (1981/82):
 	Intro, Riff 1+2, Verse 1, Chorus 1, Link 1, Verse 2, Chorus 2, Link 2, Instrumental, Chorus 3, New Riff, Outro
 
 
+
+Badinerie - J.S Bach (1738/39):
+
+* Written B: Johann Sebastian (J.S) Bach
+* Era: Baroque
+* Suite: 7th (last) movement of Bach's Orchestral Suite No. 2
+** Key: Section A - B minor (i), A major (VII), F# minor (v)
+* Tempo: Allegro (Fast)
+* Dynamics: Mostly Forte (f) with Terraced Dynamics (increase volume by adding more instruments)
+* Instrumentation: Flute, String Orchestra (2x Violin, 1x Viola, 1x Cello) Harpsichord (Basso Continuo)
+* Texture: Homophonic - Flute (and occasionally violin) provides main melody, 2nd Violin + Viola provide harmony, Cello provides bass
+* Meter: 2/4 (cut common time)
+* Structure: AABB (Binary)
+
+* Motifs:
+
+	Figure-X: Descending B Minor arpeggio/broken chord with quaver + semiquaver rhythm
+	
+	Figure-Y: Ascending Semiquaver figure, arpeggios/broken chords and conjunct (steps) movement
+
+* Sections:
+
+	Section A: 16 Bars - B Minor (i), A Major (VII), F# Minor (v)
+
+	Section B: 24 Bars - F# Minor (v), E Minor (iv), D Major (III), B Minor (i)
+
+* Key Features:
+
+	* Neopolitan 6th - Bar 35 beat 2(E,G,C)
+	* Figured Bass: Partially Improvised accompaniment played above bass line by harpsichord
+
+
+
