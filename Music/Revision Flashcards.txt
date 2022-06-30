@@ -1,0 +1,102 @@
+Key Signatures:
+
+* Major - Take the last sharp, and add one
+	Eg 2 sharps (F# and C#) means the key is D
+
+* Minor - The second last flat note is the name of the key
+	Eg 3 flats (Bb,Eb,Ab) means the key is Eb
+
+* Exceptions - No flats/sharps: C, 1 flat: F 1 sharp: G
+
+
+Relative Major/Minor
+
+* Major -> Rel. Minor: down by 3 semitones (C maj becomes Am)
+
+* Minor -> Rel. Major: up by 3 semitones (Bm becomes D maj)
+
+
+Clefs:
+
+* Treble Clef: F,A,C,E in the middle of the lines
+
+* Bass Clef: G,B,D,F,A on the lines
+
+* Alto Clef: Middle C on the middle line
+
+
+Tempo:
+
+* Grave: Very Slow
+* Adagio: Slow
+* Allegretto: Moderatly Fast
+* Alegro: Fast
+* Presto: Very Fast
+
+Dynamics:
+
+* Diminuendo (dim.): Getting Quieter
+* Pianissimo (pp) : Very Soft
+* Piano (p) : Soft
+* Mezzo Piano (mp) : Moderately Quiet
+* Mezzo Forte (mf) : Moderately Loud
+* Forte (f) : Loud
+* Fortissimo (ff) : Very Loud
+* Crescendo (cresc.): Getting Louder	
+
+
+
+Africa - Toto (1981/82):
+
+* Written By: David Paich and Jeff Porcaro
+* Key: B major on verses, links, and instrumental. A major on Chorus
+* Tempo: Moderately Fast (Allegretto)
+* Dynamics: Mezzo Forte (mf) , with Forte (f) Chorus
+* Instrumentation: Rock Band - Drum Kit w/ more percussion, lead + bass guitars, synths, male lead + male backing vocals
+* Texture: Homophonic
+* Meter: 2/2
+
+* Verse:
+	Bmaj, D#m, G#m, B/F#, A/E, E/F#, G#m, A, G#m, C#m
+
+* Chorus:
+	Short (4 bars): F#m, D, A, E (repeat)
+	Long (6 bars): F#m, D, A, C#m, E, F#m, G#m, A
+
+* Overall Structure:
+	Intro, Riff 1+2, Verse 1, Chorus 1, Link 1, Verse 2, Chorus 2, Link 2, Instrumental, Chorus 3, New Riff, Outro
+
+
+
+Badinerie - J.S Bach (1738/39):
+
+* Written B: Johann Sebastian (J.S) Bach
+* Era: Baroque
+* Suite: 7th (last) movement of Bach's Orchestral Suite No. 2
+** Key: Section A - B minor (i), A major (VII), F# minor (v)
+* Tempo: Allegro (Fast)
+* Dynamics: Mostly Forte (f) with Terraced Dynamics (increase volume by adding more instruments)
+* Instrumentation: Flute, String Orchestra (2x Violin, 1x Viola, 1x Cello) Harpsichord (Basso Continuo)
+* Texture: Homophonic - Flute (and occasionally violin) provides main melody, 2nd Violin + Viola provide harmony, Cello provides bass
+* Meter: 2/4 (cut common time)
+* Structure: AABB (Binary)
+
+* Motifs:
+
+	Figure-X: Descending B Minor arpeggio/broken chord with quaver + semiquaver rhythm
+	
+	Figure-Y: Ascending Semiquaver figure, arpeggios/broken chords and conjunct (steps) movement
+
+* Sections:
+
+	Section A: 16 Bars - B Minor (i), A Major (VII), F# Minor (v)
+
+	Section B: 24 Bars - F# Minor (v), E Minor (iv), D Major (III), B Minor (i)
+
+* Key Features:
+
+	* Neopolitan 6th - Bar 35 beat 2(E,G,C)
+	* Figured Bass: Partially Improvised accompaniment played above bass line by harpsichord
+
+
+
